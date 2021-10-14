@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+div {
+  padding: 20px;
+}
+
+.top-container {
+  background-color: #D1E8E4;
+
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.dev {
+  text-decoration: underline;
+}
